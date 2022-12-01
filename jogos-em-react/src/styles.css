@@ -1,0 +1,30 @@
+
+h1 {
+    text-align: center;
+}
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+.botoes {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+.botoesHome {
+    font-size: 25px;
+    margin: 15px;
+}
+
+/* JOGO DA VELHA */
+table {
+    background: #aaa;
+    font-size: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+th {
+    background: #777;
+    padding: 20px;
+}
